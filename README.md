@@ -13,3 +13,5 @@ C:\Program Files (x86)\Steam\steamapps\common\H3EK\tags
 4. When prompted, enter the name of the custom directory where you want to save the exported tag tree. This folder will be created in the same folder as the script.
 6. The script will save all of the relevant tags from 'the scenario_tags.txt' file inside of the new directory. It will also save a list of exported tags to a file called `tags_to_be_exported.txt` and log any missing tags to a file called `debug_missing tags.txt`.
 7. When the script has finished running, it will wait for you to press Enter before exiting.
+
+This script might be functional for other Halo mod tools, but has not been tested for them.
