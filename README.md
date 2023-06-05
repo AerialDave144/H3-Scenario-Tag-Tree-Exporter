@@ -1,5 +1,5 @@
 # H3-Scenario-Tag-Tree-Exporter
-This script exports the tag tree for .scenario tag files for the H3EK into a new folder. This is helpful for sharing all the relevant scenario tag files. When copying shared tags to your main tags folder, always be mindful of duplicate tags. It is always recommended to keep a backup of your main tags folder.
+This script exports the tag tree for .scenario tag files for the H3EK into a new folder. This is helpful for sharing all the relevant scenario tag files. When copying tags to your main tags folder, always be mindful of duplicate tags. It is always recommended to keep a backup of your main tags folder.
 
 Note: You need to have Python installed on your computer to run this script.
 
